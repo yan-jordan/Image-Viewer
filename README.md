@@ -1,8 +1,6 @@
-
-
+![Third Photo](https://github.com/yan-jordan/Image-Viewer/assets/151916970/4073b1b5-422a-4e99-8adf-fef3a7218812)
 ![First Photo](https://github.com/yan-jordan/Image-Viewer/assets/151916970/c8bf801b-05c0-464b-9654-ff8e3337eb84)
 ![Second Photo](https://github.com/yan-jordan/Image-Viewer/assets/151916970/c5e438ea-4388-4f8b-974a-6ef3c65b6102)
-![Third Photo](https://github.com/yan-jordan/Image-Viewer/assets/151916970/4073b1b5-422a-4e99-8adf-fef3a7218812)
 
 # Image Viewer
 
